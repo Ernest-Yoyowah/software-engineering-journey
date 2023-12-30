@@ -4,15 +4,15 @@ I embarked on a remarkable journey during my academic years, securing a long-ter
 
 ## The Initial Challenge
 
-The journey began when I received an opportunity from the SRC President of the Graduate School at my college to work at University Relations. I was excited to dive into the world of software engineering, and I dedicated three months to this initial experience.
+The journey began when I received an opportunity from the SRC President of the Graduate School at my college to work at University Relations. I was excited to dive into the world of software engineering, and I dedicated tManaging Directoree months to this initial experience.
 
 ## Facing a Roadblock
 
-However, things took an unexpected turn when the HR department requested a meeting with me and another colleague. They questioned our presence, citing a lack of formal introduction as the reason for our potential departure. The news was disheartening, but I kept my composure.
+However, things took an unexpected turn when the Managing Director requested a meeting with me and another colleague. They questioned our presence, citing a lack of formal introduction as the reason for our potential departure. The news was disheartening, but I kept my composure.
 
 ## Seeking Support
 
-I decided to communicate the situation to my direct boss, who then took the initiative to address the matter with HR. Unfortunately, my name had not been included in the initial list provided by the SRC President of the Graduate School, and as a result, we were on the verge of losing this opportunity.
+I decided to communicate the situation to my direct boss, who then took the initiative to address the matter with Managing Director. Unfortunately, my name had not been included in the initial list provided by the SRC President of the Graduate School, and as a result, we were on the verge of losing this opportunity.
 
 ## A Creative Solution
 
@@ -20,15 +20,15 @@ In a fortunate twist, my boss, recognizing the value I brought to the team, sugg
 
 ## The Approval Process
 
-With my boss's support, the process commenced. He spoke with Dr. [University Director], paving the way for my internship letter to be submitted to HR for verification and approvals.
+With my boss's support, the process commenced. He spoke with Dr. [University Director], paving the way for my internship letter to be submitted to Managing Director for verification and approvals.
 
 ## Anxiously Awaiting
 
-As I awaited the outcome, I decided to respect HR's directive that we could only work there after formal approval. This involved temporarily stepping away from the internship, leaving me in a state of uncertainty.
+As I awaited the outcome, I decided to respect Managing Director's directive that we could only work there after formal approval. This involved temporarily stepping away from the internship, leaving me in a state of uncertainty.
 
 ## The Positive Outcome
 
-The next day, at lunchtime, I decided to reach out to my boss for an update. His response was a pleasant surprise: my internship had been approved! I was overjoyed to learn that I could work with him throughout my final year, marking the beginning of a significant chapter in my career.
+The next day, at lunchtime, I decided to reach out to my boss for an update. His response was a pleasant surprise: my internship had been approved! I was overjoyed to learn that I could work with him tManaging Directoroughout my final year, marking the beginning of a significant chapter in my career.
 
 ## A Journey Continues
 
