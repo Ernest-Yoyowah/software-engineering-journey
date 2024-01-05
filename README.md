@@ -11,12 +11,12 @@ Welcome to my software engineering journey repository! This repository serves as
   - [**2nd-year/**](./collge_major/2nd-year)
     - (Content related to the second year)
   - [**README.md**](./collge_major/README.md)
-    - (Introduction and overview of the college major section)
+    - (Introduction and overview of my college major - BSC. Software Engineering)
 
 - **personal_reflections/**
 
   - [**my_2023_software_engineering_journey.md**](./personal_reflections/my_2023_software_engineering_journey.md)
-    - (Reflecting on the software engineering journey in 2023)
+    - (Reflecting on my software engineering journey in 2023)
   - [**my_internship_story.md**](./personal_reflections/my_internship_story.md)
     - (Sharing my internship experience)
   - [**year-end_reflection_and_planning-2023.md**](./personal_reflections/year-end_reflection_and_planning-2023.md)
