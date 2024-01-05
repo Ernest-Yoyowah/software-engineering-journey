@@ -20,9 +20,9 @@ Welcome to my software engineering journey repository! This repository serves as
   - [**my_internship_story.md**](./personal_reflections/my_internship_story.md)
     - (Sharing my internship experience)
   - [**year-end_reflection_and_planning-2023.md**](./personal_reflections/year-end_reflection_and_planning-2023.md)
-    - (Reflecting on the year-end and planning for 2023)
+    - (Reflecting on the year-end and planning for 2024)
   - [**README.md**](./personal_reflections/README.md)
-    - (Introduction and overview of the personal reflections section)
+    - (Introduction and overview of my personal reflections)
 
 ## About This Repository
 
