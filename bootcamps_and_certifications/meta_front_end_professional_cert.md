@@ -6,6 +6,12 @@
 
 **Duration:** Started in October 2022 and completed in September 2023
 
+## Summary
+
+The Meta Front-End Developer Certificate is a comprehensive program combining the following individual courses. This certificate represents the successful completion of all required courses.
+
+[View Main Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/PQXLVFL8C9GD)
+
 ## Course Certificates Completed
 
 1. **Introduction to Front-End Development**
