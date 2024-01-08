@@ -68,3 +68,11 @@ A **data structure** is a representation of data and the operations allowed on t
 - **Tree:** Data is organized in branches, with a hierarchical structure. Nodes have a parent-child relationship.
 
 - **Graph:** A more general branching structure, where nodes (vertices) can have connections (edges) to other nodes. It is less strict than a tree in terms of connection conditions.
+
+## Homogeneous and Non-Homogeneous Data Structures
+
+**Homogeneous:** In this type of data structures, values of the same types of data are stored.
+Example: **Array**
+
+**Non-Homogeneous:** In this type of data structures, data values of different types are grouped and stored.
+Examples: **Structures, Classes**
