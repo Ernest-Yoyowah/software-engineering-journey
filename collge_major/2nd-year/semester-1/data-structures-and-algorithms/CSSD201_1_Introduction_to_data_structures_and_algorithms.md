@@ -41,3 +41,10 @@ A data structure is a representation of data and the operations allowed on that 
 - Trees
 - Graphs
 - Hash Tables
+
+## Selection of Data Structure
+
+### The choice of particular data model depends on two considerations:
+
+- It must be rich enough in structure to represent the relationship between data elements
+- The structure should be simple enough that one can effectively process the data when necessary
