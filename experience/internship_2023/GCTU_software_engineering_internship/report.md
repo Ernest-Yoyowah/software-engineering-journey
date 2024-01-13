@@ -28,3 +28,8 @@ I had the privilege of serving as a Software Engineering Intern at GCTU in the U
 - Enhanced the online presence of GCTU by implementing a dynamic Social Media section on the university's website.
 - Applied UI/UX principles to create responsive components, improving the overall user experience.
 - Led the conversion of student data from Excel to SQL, ensuring accurate updates on the Admission Status Checker.
+
+### Projects
+
+- Check out projects I worked on during my internship:
+  - [XLSX to SQL Dump Converter](./projects/excel2sqldump.md)
