@@ -38,7 +38,7 @@ Welcome to my software engineering journey repository! This space is a comprehen
     - Details about the GCTU Social Media Integration project
   - [**quick_links_component.md**](./experience/internship_2023/GCTU_software_engineering_internship/projects/gctu_quick_links.md)
     - Details about the Quick Links Component project
-  - [**sql_converter.md**](./experience/internship_2023/GCTU_software_engineering_internship/projects/excel2sqldump.md)
+  - [**excel2sqldump.md**](./experience/internship_2023/GCTU_software_engineering_internship/projects/excel2sqldump.md)
     - Details about the XLSX to SQL Dump Converter project
 
 ## About This Repository
