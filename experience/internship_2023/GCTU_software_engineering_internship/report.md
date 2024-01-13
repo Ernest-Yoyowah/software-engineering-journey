@@ -33,4 +33,4 @@ I had the privilege of serving as a Software Engineering Intern at GCTU in the U
 
 - Check out projects I worked on during my internship:
   - [XLSX to SQL Dump Converter](./projects/excel2sqldump.md)
-    - [GCTU University Social Media Integration](./projects/gctu_social_media_integration.md)
+  - [GCTU University Social Media Integration](./projects/gctu_social_media_integration.md)
