@@ -1,4 +1,4 @@
-# My 2023 Software Engineering Journey
+# My 2023-2024 Software Engineering Journey
 
 In September 2022, right after finishing high school, I wasn't sure about job options. So, I made a smart move—I decided to focus on self-improvement before 2023. I signed up for an online IT course on Coursera called Meta Front End Developer Specialization. It was a big deal because it covered various programming topics, giving me a solid base in software development.
 
