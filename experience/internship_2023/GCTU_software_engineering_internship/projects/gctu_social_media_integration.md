@@ -20,4 +20,4 @@ During my Software Engineering Internship at GCTU, I collaborated closely with m
 ## Project Links
 
 - [View Demo Site](https://gctu-social.netlify.app/)
-- [See Project in Action on GCTU University Website](https://site.gctu.edu.gh/)
+- [See Project in Action on GCTU's Website](https://site.gctu.edu.gh/)
