@@ -46,3 +46,8 @@ During the internship, I gained valuable experience and knowledge in version con
 - Successfully improved the mobile responsiveness of the home page, resulting in a more user-friendly experience.
 - Implemented effective CSS media queries to adapt the layout on different devices.
 - Collaborated with the team to incorporate user feedback, ensuring alignment with brand guidelines.
+
+### Projects
+
+- Check out projects I worked on during my internship:
+  - [XLSX to SQL Dump Converter](https://excel2sqldump.netlify.app/)
