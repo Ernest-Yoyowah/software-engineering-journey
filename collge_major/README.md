@@ -6,7 +6,7 @@ Welcome to my software engineering journey repository! This repository serves as
 
 - [1st Year](./1st-year/)
 
-  - [Semester 1](./1st-year/C++/)
+  - [Semester 2](./1st-year/C++/)
     - [C++](./1st-year/C++/)
 
 - [2nd Year](./2nd-year/)

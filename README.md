@@ -1,28 +1,45 @@
 # Software Engineering Journey
 
-Welcome to my software engineering journey repository! This repository serves as a comprehensive collection of my experiences, projects, and reflections throughout my pursuit of a BSc in Software Engineering.
+Welcome to my software engineering journey repository! This space is a comprehensive collection of my experiences, projects, and reflections throughout my pursuit of a BSc in Software Engineering.
 
 ## Directory Structure
 
 - **college_major/**
 
-  - [**1st-year/**](./collge_major/1st-year)
-    - (Content related to the first year)
-  - [**2nd-year/**](./collge_major/2nd-year)
-    - (Content related to the second year)
-  - [**README.md**](./collge_major/README.md)
-    - (Introduction and overview of my college major - BSC. Software Engineering)
+  - [**1st Year/**](./college_major/1st-year)
+    - Content related to the first year
+  - [**2nd Year/**](./college_major/2nd-year)
+    - Content related to the second year
+  - [**README.md**](./college_major/README.md)
+    - Introduction and overview of my college major - BSC. Software Engineering
 
 - **personal_reflections/**
 
   - [**my_2023_software_engineering_journey.md**](./personal_reflections/my_2023_software_engineering_journey.md)
-    - (Reflecting on my software engineering journey in 2023)
+    - Reflecting on my software engineering journey in 2023
   - [**my_internship_story.md**](./personal_reflections/my_internship_story.md)
-    - (Sharing my internship experience)
+    - Sharing my internship experience
   - [**year-end_reflection_and_planning-2023.md**](./personal_reflections/year-end_reflection_and_planning-2023.md)
-    - (Reflecting on the year-end and planning for 2024)
+    - Reflecting on the year-end and planning for 2024
   - [**README.md**](./personal_reflections/README.md)
-    - (Introduction and overview of my personal reflections)
+    - Introduction and overview of my personal reflections
+
+- **experience/**
+
+  - [**xcelsz_frontend_dev_internship/**](./experience/internship_2023/xcelsz_frontend_dev_internship/)
+    - Internship experience report at Xcelsz
+  - [**GCTU_software_engineering_internship/**](./experience/internship_2023/GCTU_software_engineering_internship/)
+    - Internship experience report at GCTU
+
+- **projects/**
+  - [**dkeys_music_institute.md**](./experience/freelance_projects/dkeys_music_int.md)
+    - Details about the Dkeys Music Institute website project
+  - [**gctu_social_media_integration.md**](./experience/internship_2023/GCTU_software_engineering_internship/projects/gctu_social_media_integration.md)
+    - Details about the GCTU Social Media Integration project
+  - [**quick_links_component.md**](./experience/internship_2023/GCTU_software_engineering_internship/projects/gctu_quick_links.md)
+    - Details about the Quick Links Component project
+  - [**sql_converter.md**](./experience/internship_2023/GCTU_software_engineering_internship/projects/excel2sqldump.md)
+    - Details about the XLSX to SQL Dump Converter project
 
 ## About This Repository
 
