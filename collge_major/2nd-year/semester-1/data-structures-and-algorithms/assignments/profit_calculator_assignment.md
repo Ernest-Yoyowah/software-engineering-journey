@@ -42,9 +42,11 @@ Determine the selling price of one pencil that would result in a profit.
 
    - Calculate TCP using the given cost of the box.
    - Choose a reasonable profit margin and calculate SP.
+   - Calculate CP by rearranging the equation: CP = TCP / 24
 
 7. **Example Calculation:**
-   - If we want a profit of 10 GHS, then SP = TCP + 10
+   - If we want a profit of 10 GHS, then TCP = 40 GHS
+   - SP = Profit + CP
 
 ## Result:
 
@@ -62,23 +64,19 @@ The selling price per pencil that would result in a profit can be calculated bas
 
 1. **Calculate Cost Per Pencil (CP):**
 
-   - CP = 30 / 24
-   - CP = 1.25 GHS per pencil
-
-2. **Calculate Total Cost Price (TCP):**
-
    - TCP = CP \* 24
-   - TCP = 1.25 \* 24
-   - TCP = 30 GHS
+   - CP = TCP / 24
+   - CP = 40 / 24
+   - CP = 1.67 GHS per pencil
 
-3. **Calculate Selling Price (SP):**
-   - SP = TCP + Profit Margin
-   - SP = 30 + 10
-   - SP = 40 GHS
+2. **Calculate Total Selling Price (TSP):**
+   - TSP = TCP + Profit Margin
+   - TSP = 40 + 10
+   - TSP = 50 GHS
 
 ### Result:
 
-The selling price per pencil that would result in a profit, with a chosen profit margin of 10 GHS, is 40 GHS.
+The selling price per pencil that would result in a profit, with a chosen profit margin of 10 GHS, is 50 GHS.
 
 ### Reflection:
 
