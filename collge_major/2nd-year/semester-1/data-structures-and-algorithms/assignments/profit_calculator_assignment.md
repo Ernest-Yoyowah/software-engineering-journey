@@ -69,14 +69,9 @@ The selling price per pencil that would result in a profit can be calculated bas
    - CP = 40 / 24
    - CP = 1.67 GHS per pencil
 
-2. **Calculate Total Selling Price (TSP):**
-   - TSP = TCP + Profit Margin
-   - TSP = 40 + 10
-   - TSP = 50 GHS
-
 ### Result:
 
-The selling price per pencil that would result in a profit, with a chosen profit margin of 10 GHS, is 50 GHS.
+The selling price per pencil that would result in a profit of 10 GHS, is 1.67 GHS.
 
 ### Reflection:
 
