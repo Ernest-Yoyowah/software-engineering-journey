@@ -17,6 +17,11 @@
 - **Issue:** Logistical issues in the implementation phase.
 - **Prevention:** Implement a robust design process that considers all aspects of the project, including infrastructure, technology, and operational procedures. Conduct thorough testing and simulation exercises to identify and address potential issues before implementation.
 
+### Controlled Rollout:
+
+- **Issue:** Operational disruptions and baggage handling problems.
+- **Prevention:** Consider a controlled and gradual rollout of the new terminal. Initially, allow a limited number of people to use the airport on the reopening stage to monitor and address any unforeseen issues. Gradually increase the number of users as the system stabilizes.
+
 ### Effective Project Management:
 
 - **Issue:** Challenges in managing the Iron Triangle (Scope, Resources, Time).
