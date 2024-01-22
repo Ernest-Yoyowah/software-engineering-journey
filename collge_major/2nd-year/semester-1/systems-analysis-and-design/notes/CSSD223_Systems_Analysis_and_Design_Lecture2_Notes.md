@@ -1,6 +1,4 @@
-# System Analysis and Design Class Notes
-
-## Need for System Analysis and Design
+# Need for System Analysis and Design
 
 In the realm of information technology, the systematic approach to solving complex problems is essential. This is where System Analysis and Design (SAD) comes into play. SAD is a structured methodology that ensures efficient and effective development and maintenance of information systems. It involves a thorough understanding of business processes, identification of problems and opportunities, and designing solutions that align with organizational objectives.
 
