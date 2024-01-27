@@ -4,7 +4,7 @@
 
 Consider a static array of size 4: `int array[4];` initialized with values `[8, 10, 12, 5]`.
 
-Your task is to insert the value `18` at index `2` in the array. This means replacing the value at index `2` (which is `12` in the given array) with the new value `18`.
+Your task is to insert the value `18` at index `2` in the array.
 
 **Note:** Do not provide the solution; focus on describing the problem statement.
 
