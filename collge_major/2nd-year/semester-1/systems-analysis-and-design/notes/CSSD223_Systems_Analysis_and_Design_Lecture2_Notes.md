@@ -20,36 +20,6 @@ The Systems Development Lifecycle is a structured framework for understanding an
 
 7. **Implementing and Evaluating the System:** The final phase involves deploying the system in the real-world environment and evaluating its performance against the defined objectives.
 
-The seven phases of the Systems Development Lifecycle are crucial for delivering a robust and effective information system.
-
-### Identifying Problems, Opportunities, and Objectives
-
-This phase involves a comprehensive analysis of the organization's current state. Problems are identified, opportunities are explored, and objectives are set to guide the development process.
-
-### Determining Human Information and Requirements
-
-Understanding the needs of end-users and stakeholders is critical. This phase involves gathering information about how users interact with the system and what their requirements are.
-
-### Analyzing System Needs
-
-Once the requirements are gathered, a detailed analysis of the system needs is performed. This involves defining the functional and non-functional requirements of the system.
-
-### Designing the Recommended System
-
-The design phase focuses on creating a blueprint for the system based on the analysis. It involves defining the architecture, data structures, and interfaces of the system.
-
-### Developing and Documenting Software
-
-Actual coding and development of the software occur in this phase. Simultaneously, thorough documentation of the software is crucial for understanding, maintenance, and future development.
-
-### Testing and Maintaining the System
-
-System testing is performed to ensure it meets the specified requirements. Maintenance involves making necessary modifications, addressing issues, and enhancing the system.
-
-### Implementing and Evaluating the System
-
-The final phase involves deploying the system in the real-world environment and evaluating its performance against the defined objectives.
-
 ## Impact of Maintenance
 
 It's estimated that up to 60% of the total time spent on systems projects is dedicated to maintenance. This includes two main activities:
