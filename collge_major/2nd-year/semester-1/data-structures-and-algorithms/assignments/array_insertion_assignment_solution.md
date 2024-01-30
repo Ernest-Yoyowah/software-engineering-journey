@@ -37,6 +37,10 @@ Given a static array of size `4` initialized with values, and a task to insert a
 - **Modified Array:**
   - The array will be modified after the insertion, and the new value `18` will be present at the specified index `2`.
 
+-**Initial Output:**
+
+- `[8, 10, 12, 5]`
+
 -**Expected Output:**
 
 - `[8, 10, 18, 12, 5]`
