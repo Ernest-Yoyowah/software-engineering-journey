@@ -6,11 +6,11 @@ Welcome to my software engineering journey repository! This space is a comprehen
 
 - **college_major/**
 
-  - [**1st Year/**](./college_major/1st-year)
+  - [**1st Year/**](./collge_major/1st-year/)
     - Content related to the first year
-  - [**2nd Year/**](./college_major/2nd-year)
+  - [**2nd Year/**](./collge_major/2nd-year/)
     - Content related to the second year
-  - [**README.md**](./college_major/README.md)
+  - [**README.md**](./collge_major/README.md)
     - Introduction and overview of my college major - BSC. Software Engineering
 
 - **personal_reflections/**
@@ -33,7 +33,7 @@ Welcome to my software engineering journey repository! This space is a comprehen
 
 - **projects/**
   - [**dkeys_music_institute.md**](./experience/freelance_projects/dkeys_music_int.md)
-    - Details about the Dkeys Music Institute website project
+    - Details about the Dkeys Music Institute's official website
   - [**gctu_social_media_integration.md**](./experience/internship_2023/GCTU_software_engineering_internship/projects/gctu_social_media_integration.md)
     - Details about the GCTU Social Media Integration project
   - [**quick_links_component.md**](./experience/internship_2023/GCTU_software_engineering_internship/projects/gctu_quick_links.md)
