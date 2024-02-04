@@ -36,4 +36,4 @@ Algorithm addNodeOptimized():
     head = newNode
 ```
 
-- [Diagram representation of the algorithm](./linked-list_node_addition_and_time_complexity_optimization_assignment_diagram.md)
+[Diagram representation of the algorithm](./linked-list_node_addition_and_time_complexity_optimization_assignment_diagram.md)
