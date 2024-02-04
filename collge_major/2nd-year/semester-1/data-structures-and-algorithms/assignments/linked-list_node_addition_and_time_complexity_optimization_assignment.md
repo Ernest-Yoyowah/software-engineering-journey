@@ -35,3 +35,5 @@ Algorithm addNodeOptimized():
     // Update the head of the list to be the new node
     head = newNode
 ```
+
+- [Diagram representation of the algorithm](./linked-list_node_addition_and_time_complexity_optimization_assignment_diagram.md)
