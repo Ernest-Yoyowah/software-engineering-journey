@@ -26,6 +26,10 @@ In its basic form, logic involves human reasoning that concludes a proposition i
   - Implemented by an OR gate circuit.
 - Each function responds uniquely to a given set of conditions.
 
+## Diagram of Basic Logic Gates
+
+![Basic Logic Gates Diagram](https://1.bp.blogspot.com/-8dDhU32IVVs/UITM5uych0I/AAAAAAAAAGE/AUYSfBYO-Nc/s1600/3.png)
+
 ## Combinations and Complex Functions
 
 - **Combination of Basic Functions:**
