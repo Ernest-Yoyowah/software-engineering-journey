@@ -86,3 +86,11 @@ Solution:
 - ¬ q = Mary will not get any money
 - k = James family will be happy
 - Therefore: ¬ p ⇒ (¬q ∧k)
+
+### TRY:
+
+Translate the following sentences given the following statements.
+
+- My shirt is gray and my shorts are not.
+- I am not wealthy but I like quality things. If I go to the mall then I will buy shoes.
+- If Harry comes to work today then I will borrow his bag and I will take it to the program.
