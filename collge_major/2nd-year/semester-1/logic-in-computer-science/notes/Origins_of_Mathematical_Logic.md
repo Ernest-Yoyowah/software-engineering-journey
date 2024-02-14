@@ -45,3 +45,15 @@ The "Trivium" is the backbone of a Classical Education and consists of three ess
 
 Rhetoric is the art of persuasive communication, encompassing the use of language to influence or persuade an audience.
 It's all about being able to speak and write in a way that convinces people to agree with you. In the Trivium, rhetoric means learning how to use words effectively when you talk in public, write essays, or have debates. It's about getting your message across clearly and persuasively.
+
+### Non-Euclidean Geometries:
+
+Non-Euclidean geometries are different ways of thinking about shapes and space that don't follow the rules set out by the ancient Greek mathematician Euclid. These geometries explore different possibilities for how space can be organized and measured, challenging the traditional ideas of geometry.
+
+### Axioms:
+
+Axioms are basic rules or statements that are accepted as true without needing to be proven. They form the foundation of mathematical theories and systems by providing starting points for reasoning. In geometry, axioms are fundamental principles about points, lines, and shapes that are assumed to be true.
+
+### Axiomatize:
+
+Axiomatize means to create a system of rules or principles (axioms) that define a particular area of study, such as mathematics or logic. It involves organizing the fundamental concepts and assumptions into a coherent and consistent framework, laying the groundwork for further exploration and development in that field.
