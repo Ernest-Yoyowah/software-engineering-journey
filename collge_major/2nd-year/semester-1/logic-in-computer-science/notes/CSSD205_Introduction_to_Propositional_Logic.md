@@ -60,3 +60,29 @@ Truth tables are used to represent the possible truth values of compound proposi
 - **Contradiction:** A compound proposition that is always false.
 
 These notes provide an overview of Propositional Logic, introducing logical connectives, truth tables, implication, and key concepts in understanding and manipulating propositions.
+
+## Translate the following propositions;
+
+### Example 1:
+
+If I write an exam and I cheat then I will get caught and I will fail.
+
+solution:
+
+- Let P = I write an exam
+- q = I cheat
+- k = I will get caught
+- f = I will fail
+- Hence, (p ∧q) ⇒ (k ∧f)
+
+### Example 2:
+
+If James does not die then Mary will not get any money and James family will be happy.
+Solution:
+
+- Let p = James die
+- ¬ p = James does not die
+- q = Mary will get money
+- ¬ q = Mary will not get any money
+- k = James family will be happy
+- Therefore: ¬ p ⇒ (¬q ∧k)
