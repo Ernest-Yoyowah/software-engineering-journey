@@ -41,3 +41,34 @@ Note that questions and instructions/commands are not statements because they ca
 - Turn the computer off.
 - Stop the bus.
 - Tell me the time.
+
+## Propositions
+
+Propositions is the meaningful content of a statement. A proposition can be simple or complex
+
+#### Examples of simple propositions which can either be true or false statement:
+
+- Dogs are mammals
+- Kate is a beautiful girl
+- Laptops are expensive
+- Roses are red
+- All cars have engine.
+
+#### Examples of complex propositions:
+
+- Dogs are mammals and cats are mammals.
+- Either you like chicken or you like fish.
+- I may come there or come later.
+
+Note that what is connecting the two sentences are what we call connectives.
+
+## Connectives
+
+Connectives are language of the propositional logic such as:
+
+- ∧ and (or conjuction)
+- ∨ or (disjunction)
+- ¬ not (∼) Negation
+- ⇒ implies (or conditional) meaning if a proposition then another proposition
+- ⇔ biconditional/ equivalence ie if and only if (iff)
+- ⊕ Exclusive or
