@@ -28,3 +28,20 @@ Formalization of logic became necessary to address flaws in reasoning expressed 
 In the first half of the twentieth century, logic became a prominent topic in modern mathematics through Hilbert's program, aiming to axiomatize mathematics while ensuring consistency and completeness. However, Kurt Gödel's incompleteness theorem showed that this goal cannot be fully achieved.
 
 In the latter half of the twentieth century, mathematical logic found applications in computer science, becoming one of its foundational theoretical aspects. New systems of logic were developed to address problems in computer science, expanding the scope beyond classical systems.
+
+## Key Terms:
+
+### Trivium:
+
+The "Trivium" is the backbone of a Classical Education and consists of three essential stages of learning.
+
+1. **Grammar Stage**: This is the first phase where young children acquire basic knowledge.
+
+2. **Logic Stage**: The second phase is for teenagers, focusing on understanding and reasoning skills.
+
+3. **Rhetoric Stage**: In the final phase, young adults develop wisdom and the ability to communicate persuasively.
+
+### Rhetoric:
+
+Rhetoric is the art of persuasive communication, encompassing the use of language to influence or persuade an audience.
+It's all about being able to speak and write in a way that convinces people to agree with you. In the Trivium, rhetoric means learning how to use words effectively when you talk in public, write essays, or have debates. It's about getting your message across clearly and persuasively.
