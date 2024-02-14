@@ -87,7 +87,7 @@ Solution:
 - k = James family will be happy
 - Therefore: ¬ p ⇒ (¬q ∧k)
 
-### TRY:
+### Try Work:
 
 Translate the following sentences given the following statements.
 
