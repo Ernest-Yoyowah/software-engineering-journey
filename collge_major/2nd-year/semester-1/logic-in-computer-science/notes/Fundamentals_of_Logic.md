@@ -19,7 +19,7 @@ The most widely known set of rules are the syllogisms, where one thing leads to 
 
 A statement is a declarative sentence that can be true or false or a statement is a sentence which declare something. A statement can be true (when it declares something that does actually exist) or false (when it declares something that does not exist) but cannot be both.
 
-## Examples of statement
+### Examples of statement
 
 - February has 30 days.
 - Tomorrow is Thursday
@@ -30,3 +30,14 @@ A statement is a declarative sentence that can be true or false or a statement i
 - 32 is even
 
 NB: All these are examples of statement since some are true whilst some are false.
+
+## Not Statements
+
+Note that questions and instructions/commands are not statements because they cannot be given a truth value.
+
+### Examples of Not statement
+
+- Have you done it?
+- Turn the computer off.
+- Stop the bus.
+- Tell me the time.
