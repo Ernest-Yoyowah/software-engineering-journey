@@ -66,7 +66,7 @@ Note that what is connecting the two sentences are what we call connectives.
 
 Connectives are language of the propositional logic such as:
 
-- ∧ and (or conjuction)
+- ∧ and (conjuction)
 - ∨ or (disjunction)
 - ¬ not (∼) Negation
 - ⇒ implies (or conditional) meaning if a proposition then another proposition
