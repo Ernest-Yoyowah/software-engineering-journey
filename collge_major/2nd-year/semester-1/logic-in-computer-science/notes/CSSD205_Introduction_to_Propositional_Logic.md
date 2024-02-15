@@ -59,6 +59,24 @@ Truth tables are used to represent the possible truth values of compound proposi
 
 - **Contradiction:** A compound proposition that is always false.
 
+### Understanding Tautology and Contradiction
+
+In logic, a **tautology** is a formula that is always true, regardless of the truth values assigned to its components. It can be seen as a rule of logic that holds true under all circumstances.
+
+On the other hand, a **contradiction** is a formula that is always false, regardless of the truth values assigned to its components. It represents a situation where no assignment of truth values can make the formula true.
+
+## Examples:
+
+### Tautology: (p ∨ ¬p)
+
+The formula (p ∨ ¬p) represents the logical operation "p or not p." Regardless of whether p is true or false, the entire expression will always be true. This is because if p is true, then (p ∨ ¬p) is true because one of its components (p) is true. If p is false, then (¬p) is true, so (p ∨ ¬p) is still true because one of its components (¬p) is true. Therefore, (p ∨ ¬p) is always true, making it a tautology.
+
+### Contradiction: (p ∧ ¬p)
+
+The formula (p ∧ ¬p) represents the logical operation "p and not p." This expression can never be true because it asserts both p and its negation ¬p simultaneously. Since p and ¬p cannot both be true at the same time, the entire expression (p ∧ ¬p) is always false, regardless of the truth value of p. Therefore, (p ∧ ¬p) is a contradiction.
+
+In summary, (p ∨ ¬p) is always true, representing a tautology, while (p ∧ ¬p) is always false, representing a contradiction.
+
 These notes provide an overview of Propositional Logic, introducing logical connectives, truth tables, implication, and key concepts in understanding and manipulating propositions.
 
 ## Translate the following propositions;
