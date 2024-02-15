@@ -72,7 +72,8 @@ A truth table is a table that shows all possible combinations of input values an
 
 ### Example:
 
-![Truth Table Example](https://mcsphilsoc.files.wordpress.com/2012/11/truth-table.png?w=640)
+![Truth Table Example 1 ](https://mcsphilsoc.files.wordpress.com/2012/11/truth-table.png?w=640)
+![Truth Table Example 2](image-1.png)
 
 ## 4. Connectives
 
