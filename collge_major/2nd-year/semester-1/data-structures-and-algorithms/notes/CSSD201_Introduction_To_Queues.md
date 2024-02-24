@@ -48,3 +48,10 @@
 
 - A buffer is a temporary storage area used to hold data while it is being transferred from one place to another.
 - Buffering is the process of temporarily storing data in a buffer to smooth out the flow of data between two devices or processes that operate at different speeds.
+
+## Queue Implementations
+
+- Array-based implementation:
+  - Circular array for efficient memory usage.
+- Linked list-based implementation:
+  - Dynamic memory allocation for flexibility.
