@@ -43,3 +43,8 @@
 - Queues are suitable for scenarios where elements need to be processed in the order they are received.
 - They ensure fairness by following the FIFO principle, making them ideal for task scheduling and job processing.
 - Queues provide efficient handling of resources, preventing resource contention and maximizing throughput.
+
+## Buffer and Buffering
+
+- A buffer is a temporary storage area used to hold data while it is being transferred from one place to another.
+- Buffering is the process of temporarily storing data in a buffer to smooth out the flow of data between two devices or processes that operate at different speeds.
