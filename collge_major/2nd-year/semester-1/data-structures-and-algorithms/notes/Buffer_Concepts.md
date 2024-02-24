@@ -44,3 +44,8 @@
   - The red line indicates the portion of the video that has been watched up to the current moment.
   - The grey line represents the buffered data, which is the portion of the video that has been preloaded and is available for playback.
   - As the video plays, the grey line moves forward, indicating that more data is being buffered ahead of the playback position.
+
+## Buffer Management
+
+- Efficient buffer management is crucial for optimizing system performance and resource utilization.
+- Strategies include buffer sizing, buffer allocation, and buffer flushing to ensure smooth data flow and prevent buffer overflow or underflow.
