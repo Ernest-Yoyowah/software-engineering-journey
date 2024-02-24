@@ -36,3 +36,11 @@
    - Used in input/output operations to temporarily hold data during data transfer between devices.
    - Consists of input buffers (for receiving data from input devices) and output buffers (for storing data ready to be sent to output devices).
    - Helps improve system performance by reducing the overhead of handling data transfer operations.
+
+## Buffer and Buffering in Video Streaming
+
+- In video streaming, buffering refers to the process of preloading a portion of the video data into a buffer before playback begins.
+- When watching a video, you may notice a red line and a grey line on the video player's timeline.
+  - The red line indicates the portion of the video that has been watched up to the current moment.
+  - The grey line represents the buffered data, which is the portion of the video that has been preloaded and is available for playback.
+  - As the video plays, the grey line moves forward, indicating that more data is being buffered ahead of the playback position.
