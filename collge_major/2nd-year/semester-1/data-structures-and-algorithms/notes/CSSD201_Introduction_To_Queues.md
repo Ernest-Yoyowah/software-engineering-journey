@@ -37,3 +37,9 @@
 - Print job queues in printers.
 - Network packet handling.
 - Breadth-first search (BFS) algorithm in graph traversal.
+
+## Why Use Queues
+
+- Queues are suitable for scenarios where elements need to be processed in the order they are received.
+- They ensure fairness by following the FIFO principle, making them ideal for task scheduling and job processing.
+- Queues provide efficient handling of resources, preventing resource contention and maximizing throughput.
