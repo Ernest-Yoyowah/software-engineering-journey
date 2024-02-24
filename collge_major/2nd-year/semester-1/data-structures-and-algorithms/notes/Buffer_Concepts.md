@@ -49,3 +49,9 @@
 
 - Efficient buffer management is crucial for optimizing system performance and resource utilization.
 - Strategies include buffer sizing, buffer allocation, and buffer flushing to ensure smooth data flow and prevent buffer overflow or underflow.
+
+## Buffering vs. Caching
+
+- While both buffering and caching involve temporary storage of data, they serve different purposes and operate in different contexts.
+- Buffering is primarily used for managing data transfer and processing between devices or processes, focusing on ensuring smooth and continuous data flow.
+- Caching, on the other hand, involves storing frequently accessed data in a high-speed memory to improve access times and reduce latency, optimizing overall system performance.
