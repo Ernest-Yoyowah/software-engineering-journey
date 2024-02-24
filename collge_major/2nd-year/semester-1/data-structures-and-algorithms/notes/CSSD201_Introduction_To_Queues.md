@@ -55,3 +55,14 @@
   - Circular array for efficient memory usage.
 - Linked list-based implementation:
   - Dynamic memory allocation for flexibility.
+
+## Comparison of Implementations
+
+- Array-based implementation:
+  - Fixed size or resizing operations.
+  - Efficient random access.
+  - Memory wastage in case of sparse queues.
+- Linked list-based implementation:
+  - Dynamic memory allocation.
+  - No resizing required.
+  - No memory wastage.
