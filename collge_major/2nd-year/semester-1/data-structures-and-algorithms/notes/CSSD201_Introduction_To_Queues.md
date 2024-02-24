@@ -66,3 +66,13 @@
   - Dynamic memory allocation.
   - No resizing required.
   - No memory wastage.
+
+## Sample Problems
+
+- Reverse a string using a queue.
+- Implement a circular queue.
+- Check if a string is palindrome using a queue.
+- Generate binary numbers from 1 to n using a queue.
+- How can you implement a queue using two stacks?
+- Show how you can efficiently implement one stack using two queues. Analyze the running time of the stack operations.
+- Assuming we don't have a queue data structure, we only have stack, how can we implement a queue with a stack?
