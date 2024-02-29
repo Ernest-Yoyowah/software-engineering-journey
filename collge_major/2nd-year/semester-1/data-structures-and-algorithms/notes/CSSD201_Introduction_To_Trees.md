@@ -86,10 +86,36 @@
 - Finding a specific node with a given key value.
 - Search operations are essential for retrieving data efficiently from the tree.
 
-### 4. Traversal
+## Tree Traversals
 
-- Visiting all nodes in the tree in a specific order, such as pre-order, in-order, and post-order traversal.
-- Traversal operations are useful for accessing and processing all elements in the tree.
+### Introduction
+
+Tree traversal refers to the process of visiting all the nodes of a tree in a specific order. There are three common types of tree traversals: in-order, pre-order, and post-order traversal. Each traversal method defines a different order in which the nodes are visited.
+
+### In-order Traversal
+
+- In-order traversal involves visiting the left subtree, then the root node, and finally the right subtree.
+- In a binary search tree (BST), an in-order traversal visits the nodes in ascending order.
+- This traversal is commonly used to retrieve the elements of a BST in sorted order.
+- Example: In-order traversal of a BST would visit nodes in the order: Left -> Root -> Right.
+
+### Pre-order Traversal
+
+- Pre-order traversal involves visiting the root node first, then the left subtree, and finally the right subtree.
+- It is often used to create a copy of the tree or prefix expression evaluation.
+- Example: Pre-order traversal of a tree would visit nodes in the order: Root -> Left -> Right.
+
+### Post-order Traversal
+
+- Post-order traversal involves visiting the left subtree, then the right subtree, and finally the root node.
+- It is commonly used to delete a tree or postfix expression evaluation.
+- Example: Post-order traversal of a tree would visit nodes in the order: Left -> Right -> Root.
+
+### Comparison
+
+- In-order traversal visits nodes in sorted order in BST, while pre-order and post-order traversals do not.
+- Pre-order traversal is useful for creating a copy of the tree or prefix expression evaluation.
+- Post-order traversal is useful for deleting a tree or postfix expression evaluation.
 
 ## Conclusion
 
