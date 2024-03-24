@@ -20,3 +20,5 @@ const unsortedArray = [5, 3, 8, 1, 2];
 console.log("Unsorted Array:", unsortedArray); // Output: [5, 3, 8, 1, 2]
 const sortedArray = bubbleSort(unsortedArray);
 console.log("Sorted Array:", sortedArray); // Output: [1, 2, 3, 5, 8]
+
+// Big O - O(n^2): Indicating that its runtime grows quadratically with the size of the input array (`n`).
