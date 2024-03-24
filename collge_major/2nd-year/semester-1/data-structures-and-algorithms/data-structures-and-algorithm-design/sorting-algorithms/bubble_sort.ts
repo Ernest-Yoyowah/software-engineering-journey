@@ -16,7 +16,7 @@ const bubbleSort = <T>(arr: T[]): T[] => {
 };
 
 // Example usage:
-const unsortedArray = [5, 3, 8, 1, 2];
+const unsortedArray = [5, 3, 8, -3, 9, -5, 1, 2];
 console.log("Unsorted Array:", unsortedArray); // Output: [5, 3, 8, 1, 2]
 const sortedArray = bubbleSort(unsortedArray);
 console.log("Sorted Array:", sortedArray); // Output: [1, 2, 3, 5, 8]
