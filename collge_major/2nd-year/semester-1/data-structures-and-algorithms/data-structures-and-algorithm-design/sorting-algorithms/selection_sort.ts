@@ -22,3 +22,4 @@ const unsortedArray = [5, 3, 8, 1, 2];
 console.log("Unsorted Array:", unsortedArray);
 const sortedArray = selectionSort(unsortedArray);
 console.log("Sorted Array:", sortedArray);
+// Big O - O(n^2): Indicating that its runtime grows quadratically with the size of the input array (`n`).
