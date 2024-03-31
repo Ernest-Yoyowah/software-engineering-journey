@@ -1,4 +1,5 @@
 #include <iostream>
+#include <tuple>
 
 using namespace std;
 
@@ -22,8 +23,9 @@ int main()
             {
                 // Swap numbers[j] and numbers[j + 1]
                 int temp = numbers[j];
-                numbers[j] = numbers[j + i];
+                numbers[j] = numbers[j + 1];
                 numbers[j + 1] = temp;
+                // tie(numbers[j], numbers[j + 1]) = tie(numbers[j+1], numbers[j])
             }
         }
     }
