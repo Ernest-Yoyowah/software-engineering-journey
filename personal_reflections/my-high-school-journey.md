@@ -12,7 +12,7 @@ My tenure as Head Prefect was challenging yet rewarding, marked by improvements 
 
 ## Morals Learned from Aggrey Memorial Senior High School:
 
-- **Relationships and Respect:** I learned how to relate, respect, and handle situations with individuals I had authority over, my peers, juniors, and superiors. Understanding hierarchies in life is crucial.
+- **Relationships and Respect:** I learned how to relate, respect, and handle situations with individuals I had authority over, my peers, juniors, and superiors. Understanding hierarchy in life is crucial.
 - **Discipline and Responsibility:** Aggrey instilled in me a sense of discipline and responsibility, essential traits for success in any endeavor.
 - **Effective Communication:** I honed my communication skills, understanding the importance of clear and effective communication in leadership roles.
 - **Listening and Understanding:** I learned the value of listening to others and understanding their perspectives, working towards solutions rather than simply dismissing feedback.
