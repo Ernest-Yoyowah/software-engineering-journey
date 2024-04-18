@@ -2,7 +2,7 @@
 
 <img src="./public/photo_high_school.jpg" alt="High School Picture" width="50%">
 
-On November 21st, I stepped into Aggrey Memorial Senior High School in Cape Coast as a General Science student with an elective in Information Technology, driven by my passion to become a software engineer. I promised myself that I wouldn't come home empty-handed; though uncertain of what I would achieve, but I was determined.
+On November 21st, 2019. I stepped into Aggrey Memorial Senior High School in Cape Coast as a General Science student with an elective in Information Technology, driven by my passion to become a software engineer. I promised myself that I wouldn't come home empty-handed; though uncertain of what I would achieve, but I was determined.
 
 High school life introduced me to new friends and experiences, but also challenges with seniors bothering freshmen, a common occurrence in Ghanaian high schools. The COVID-19 pandemic in 2020 led to school closures and the transition to online assignments and classes. Upon returning to school in November 2020, I was relieved not to encounter the troublesome seniors who had already graduated.
 
