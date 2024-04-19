@@ -4,7 +4,6 @@ const insertionSort = <T>(ar: T[]): T[] => {
     let j = i - 1;
 
     while (j >= 0 && ar[j] > numberToInsert) {
-      // swap
       ar[j + 1] = ar[j];
       j = j - 1;
     }
