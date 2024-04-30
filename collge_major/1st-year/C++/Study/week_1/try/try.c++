@@ -18,3 +18,4 @@ int main()
 
 
 //g++ try.c++
+//g++ -o <name-you-want-to-give> source.cpp
