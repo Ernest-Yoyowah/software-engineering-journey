@@ -12,6 +12,7 @@ Welcome to my software engineering journey repository! This repository serves as
 - [Computer Architecture](./1st-year/computer-architecture/)
 - [Physics for Computing Systems](./1st-year/)
 - [Calculus](./1st-year/)
+- [French](./1st-year/)
 - [Critical Thinking and Logical Reasoning](./1st-year/)
 - [probability and statistics](./1st-year/)
 - [Communication Skills II](./1st-year/)
