@@ -4,12 +4,15 @@ Welcome to my software engineering journey repository! This repository serves as
 
 ## Table of Contents
 
-- [1st Year](./1st-year/)
+### 1st Year
 
-  - [Semester 2](./1st-year/C++/)
-    - [C++](./1st-year/C++/)
+#### Semester 2
 
-### Semester 1
+- [C++](./1st-year/semester-2/cpp/)
+
+### 2nd Year
+
+#### Semester 1
 
 - [Data Communications and Networking](./2nd-year/semester-1/data-communications-and-networking/)
 - [Data Structures and Algorithms](./2nd-year/semester-1/data-structures-and-algorithms/)
@@ -18,7 +21,7 @@ Welcome to my software engineering journey repository! This repository serves as
 - [Systems Analysis and Design Fundamentals](./2nd-year/semester-1/systems-analysis-and-design-fundamentals/)
 - [Web Programming and Applications](./2nd-year/semester-1/web-programming-and-applications/)
 
-### Semester 2
+#### Semester 2
 
 - [Automata Theory](./2nd-year/semester-2/automata-theory/)
 - [Cloud Computing](./2nd-year/semester-2/cloud-computing/)
