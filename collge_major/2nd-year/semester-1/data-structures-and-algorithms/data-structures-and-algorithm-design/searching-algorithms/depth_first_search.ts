@@ -47,4 +47,4 @@ graph.addEdge(2, 3);
 graph.addEdge(3, 3);
 
 console.log("Depth First Traversal:");
-graph.dfs(3);
+graph.dfs(2);
