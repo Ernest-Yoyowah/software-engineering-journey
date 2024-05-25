@@ -9,4 +9,4 @@ const linearSearch = (arr: number[], target: number): number => {
 
 const array: number[] = [1, 3, 5, 7, 9, 11, 13, 15, 17, 19];
 
-console.log(linearSearch(array, 3));
+console.log(linearSearch(array, 5));
