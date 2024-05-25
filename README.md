@@ -4,42 +4,61 @@ Welcome to my software engineering journey repository! This space is a comprehen
 
 ## Directory Structure
 
-- **college_major/**
+### College Major
 
-  - [**1st Year/**](./collge_major/1st-year/)
-    - Content related to the first year
-  - [**2nd Year/**](./collge_major/2nd-year/)
-    - Content related to the second year
-  - [**README.md**](./collge_major/README.md)
-    - Introduction and overview of my college major - BSC. Software Engineering
+- [**1st Year**](./college_major/1st-year/)
 
-- **personal_reflections/**
+  - Content related to the first year
 
-  - [**my_2023_software_engineering_journey.md**](./personal_reflections/my_2023_software_engineering_journey.md)
-    - Reflecting on my software engineering journey in 2023
-  - [**my_internship_story.md**](./personal_reflections/my_internship_story.md)
-    - Sharing my internship experience
-  - [**year-end_reflection_and_planning-2023.md**](./personal_reflections/year-end_reflection_and_planning-2023.md)
-    - Reflecting on the year-end and planning for 2024
-  - [**README.md**](./personal_reflections/README.md)
-    - Introduction and overview of my personal reflections
+- [**2nd Year**](./college_major/2nd-year/)
 
-- **experience/**
+  - Content related to the second year
 
-  - [**xcelsz_frontend_dev_internship/**](./experience/internship_2023/xcelsz_frontend_dev_internship/)
-    - Internship experience report at Xcelsz
-  - [**GCTU_software_engineering_internship/**](./experience/internship_2023/GCTU_software_engineering_internship/)
-    - Internship experience report at GCTU
+- [**README.md**](./college_major/README.md)
+  - Introduction and overview of my college major - BSc. Software Engineering
 
-- **projects/**
-  - [**dkeys_music_institute.md**](./experience/freelance_projects/dkeys_music_int.md)
-    - Details about the Dkeys Music Institute's official website
-  - [**gctu_social_media_integration.md**](./experience/internship_2023/GCTU_software_engineering_internship/projects/gctu_social_media_integration.md)
-    - Details about the GCTU Social Media Integration project
-  - [**quick_links_component.md**](./experience/internship_2023/GCTU_software_engineering_internship/projects/gctu_quick_links.md)
-    - Details about the Quick Links Component project
-  - [**excel2sqldump.md**](./experience/internship_2023/GCTU_software_engineering_internship/projects/excel2sqldump.md)
-    - Details about the XLSX to SQL Dump Converter project
+### Personal Reflections
+
+- [**My 2023 Software Engineering Journey**](./personal_reflections/my_2023_software_engineering_journey.md)
+
+  - Reflecting on my software engineering journey in 2023
+
+- [**My Internship Story**](./personal_reflections/my_internship_story.md)
+
+  - Sharing my internship experience
+
+- [**Year-End Reflection and Planning 2023**](./personal_reflections/year-end_reflection_and_planning-2023.md)
+
+  - Reflecting on the year-end and planning for 2024
+
+- [**README.md**](./personal_reflections/README.md)
+  - Introduction and overview of my personal reflections
+
+### Experience
+
+- [**Xcelsz Frontend Dev Internship**](./experience/internship_2023/xcelsz_frontend_dev_internship/)
+
+  - Internship experience report at Xcelsz
+
+- [**GCTU Software Engineering Internship**](./experience/internship_2023/GCTU_software_engineering_internship/)
+  - Internship experience report at GCTU
+
+### Projects
+
+- [**Dkeys Music Institute**](./experience/freelance_projects/dkeys_music_int.md)
+
+  - Details about the Dkeys Music Institute's official website
+
+- [**GCTU Social Media Integration**](./experience/internship_2023/GCTU_software_engineering_internship/projects/gctu_social_media_integration.md)
+
+  - Details about the GCTU Social Media Integration project
+
+- [**Quick Links Component**](./experience/internship_2023/GCTU_software_engineering_internship/projects/gctu_quick_links.md)
+
+  - Details about the Quick Links Component project
+
+- [**Excel2SQLDump**](./experience/internship_2023/GCTU_software_engineering_internship/projects/excel2sqldump.md)
+  - Details about the XLSX to SQL Dump Converter project
 
 ## About This Repository
 
