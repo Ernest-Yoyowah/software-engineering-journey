@@ -14,7 +14,7 @@ const insertionSort = <T>(ar: T[]): T[] => {
 
 // Example usage:
 const array = [-6, 20, 8, -2, 4];
-console.log("Unsorted Array:", array); // Output: [-6, 20, 8, -2, 4]
+console.log(`Unsorted Array:  ${array}`); // Output: [-6, 20, 8, -2, 4]
 const sorted = insertionSort(array);
 console.log("Sorted Array:", sorted); // Output: [-6, -2, 4, 8, 20]
 
