@@ -1,4 +1,4 @@
-# Week 6: Software as a Service (SaaS)
+# Week 6: Software as a Service - SaaS
 
 ## Introduction
 
