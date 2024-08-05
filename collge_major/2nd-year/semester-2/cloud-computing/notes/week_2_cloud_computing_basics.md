@@ -6,7 +6,7 @@
 
 - **Cloud Computing**: The delivery of computing services over the internet, providing scalable and on-demand access to resources like servers, storage, and applications.
 
-### Properties & Characteristics
+### Properties & Characteristics - Principles
 
 - **On-Demand Self-Service**: Users can provision resources as needed.
 - **Broad Network Access**: Accessible from various devices over the network.
