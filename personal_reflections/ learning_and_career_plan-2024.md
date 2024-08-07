@@ -1,4 +1,4 @@
-# Learning and Career Plan
+# Learning and Career Plan - September 2024
 
 ## **Short-term Goals (Next 6 months)**
 
