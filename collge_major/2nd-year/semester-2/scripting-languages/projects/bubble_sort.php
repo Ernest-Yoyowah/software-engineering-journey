@@ -20,3 +20,4 @@ bubbleSort($array);
 
 echo "Sorted array: ";
 print_r($array);
+?>
