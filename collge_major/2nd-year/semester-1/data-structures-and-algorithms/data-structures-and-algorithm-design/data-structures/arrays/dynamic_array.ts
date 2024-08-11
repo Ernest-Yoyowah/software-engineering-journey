@@ -1,7 +1,7 @@
 class DynamicArray<T> {
   private capacity: number;
   private length: number;
-  private data: T;
+  private data: any;
 
   constructor(capacity: number = 10) {
     this.capacity = capacity;
