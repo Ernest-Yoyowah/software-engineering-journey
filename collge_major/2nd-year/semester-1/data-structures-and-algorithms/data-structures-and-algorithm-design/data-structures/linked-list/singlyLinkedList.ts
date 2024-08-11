@@ -32,6 +32,9 @@ class SinglyLinkedList<T> {
   // Display the elements of the list
   display(): void {
     let current: ListNode<T> | null = this.head;
+    while (current !== null) {
+      current = current.next;
+    }
   }
 }
 
