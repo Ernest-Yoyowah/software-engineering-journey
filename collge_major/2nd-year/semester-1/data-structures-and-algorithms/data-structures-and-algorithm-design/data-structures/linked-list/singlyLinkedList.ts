@@ -33,7 +33,7 @@ class SinglyLinkedList<T> {
   display(): void {
     let current: ListNode<T> | null = this.head;
     while (current !== null) {
-      console.log(`Current Value: ${current.value}`);
+      console.log(`${current.value}`);
       current = current.next;
     }
   }
