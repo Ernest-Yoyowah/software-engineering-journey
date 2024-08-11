@@ -30,13 +30,6 @@ class SinglyLinkedList<T> {
   }
 
   // Display the elements of the list
-  display(): void {
-    let current: ListNode<T> | null = this.head;
-    while (current !== null) {
-      console.log(current.value);
-      current = current.next;
-    }
-  }
 }
 
 // Example usage:
