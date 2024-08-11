@@ -44,7 +44,7 @@ Parallel computing involves dividing a task into smaller subtasks that are execu
 
 ## Comparison
 
-| Feature             | Concurrent Computing                               | Parallel Computing                           |
+| Feature             | Concurrent Computing                               | Parallel                                     |
 | ------------------- | -------------------------------------------------- | -------------------------------------------- |
 | **Execution Model** | Overlapping tasks, interleaved or real parallelism | Simultaneous execution of tasks              |
 | **Processor Usage** | Can occur on single or multiple cores              | Requires multiple processors or cores        |
