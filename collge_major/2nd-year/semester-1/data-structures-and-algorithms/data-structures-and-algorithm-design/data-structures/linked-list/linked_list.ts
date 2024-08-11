@@ -1,5 +1,5 @@
 class ListNode<T> {
-  data: T;
+  data: any;
   next: ListNode<T> | null;
 
   constructor(data: T) {
