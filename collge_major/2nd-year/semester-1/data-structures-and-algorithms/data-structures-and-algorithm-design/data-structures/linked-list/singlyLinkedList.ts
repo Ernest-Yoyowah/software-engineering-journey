@@ -1,41 +1,80 @@
+/**
+ * A node in the singly linked list.
+ */
 class ListNode<T> {
   public value: T;
-  public next: ListNode<T> | null;
+  public next: ListNode<T> | null = null;
 
+  /**
+   * Creates a new node with the given value.
+   * @param value - The value to store in the node.
+   */
   constructor(value: T) {
     this.value = value;
-    this.next = null;
   }
 }
 
+/**
+ * A singly linked list data structure.
+ */
 class SinglyLinkedList<T> {
-  private head: ListNode<T> | null;
-  private tail: ListNode<T> | null;
+  private head: ListNode<T> | null = null;
+  private tail: ListNode<T> | null = null;
 
-  constructor() {
-    this.head = null;
-    this.tail = null;
-  }
-
-  // Insert a new node at the end of the list
-  append(value: T): void {
+  /**
+   * Appends a new node with the given value to the end of the list.
+   * @param value - The value to add to the list.
+   */
+  public append(value: T): void {
     const newNode = new ListNode(value);
+
+    if (this.tail) {
+      this.tail.next = newNode;
+    }
+    this.tail = newNode;
+
     if (!this.head) {
       this.head = newNode;
-      this.tail = newNode;
-    } else {
-      this.tail!.next = newNode;
-      this.tail = newNode;
     }
   }
 
-  // Display the elements of the list
-  display(): void {
-    let current: ListNode<T> | null = this.head;
+  /**
+   * Displays the elements of the list.
+   */
+  public display(): void {
+    let current = this.head;
     while (current !== null) {
-      console.log(`${current.value}`);
+      console.log(current.value);
       current = current.next;
     }
+  }
+
+  /**
+   * Returns a string representation of the list.
+   * @returns A string representing the list.
+   */
+  public toString(): string {
+    let result = "";
+    let current = this.head;
+    while (current !== null) {
+      result += `${current.value}${current.next ? " -> " : ""}`;
+      current = current.next;
+    }
+    return result;
+  }
+
+  /**
+   * Returns the length of the list.
+   * @returns The number of elements in the list.
+   */
+  public length(): number {
+    let count = 0;
+    let current = this.head;
+    while (current !== null) {
+      count++;
+      current = current.next;
+    }
+    return count;
   }
 }
 
@@ -45,3 +84,5 @@ linkedList.append(1);
 linkedList.append(2);
 linkedList.append(3);
 linkedList.display(); // Output: 1, 2, 3
+console.log(linkedList.toString()); // Output: 1 -> 2 -> 3
+console.log(`Length of the list: ${linkedList.length()}`); // Output: Length of the list: 3
