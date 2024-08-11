@@ -1,5 +1,5 @@
 class ListNode<T> {
-  data: ListNode;
+  data: T;
   next: ListNode<T> | null;
 
   constructor(data: T) {
@@ -20,7 +20,7 @@ class LinkedList<T> {
   }
 
   // Method to add a new node to the front of the list
-  addFront(data: T): void {
+  addFront(data: any): void {
     const newNode = new ListNode<T>(data);
     if (!this.head) {
       this.head = newNode;
