@@ -20,7 +20,7 @@ class LinkedList<T> {
   }
 
   // Method to add a new node to the front of the list
-  addFront(data: any): void {
+  addFront(data: T): void {
     const newNode = new ListNode<T>(data);
     if (!this.head) {
       this.head = newNode;
