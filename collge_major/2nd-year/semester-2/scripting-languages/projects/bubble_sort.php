@@ -15,7 +15,7 @@ function bubbleSort(&$arr) {
 }
 
 // Example usage:
-$array = [64, 34, 25, 12, 22, 11, 90];
+$array = [64, 34, 25, 12, 22, 11, 90, 9];
 bubbleSort($array);
 
 echo "Sorted array: ";
