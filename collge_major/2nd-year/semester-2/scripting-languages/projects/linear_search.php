@@ -19,4 +19,3 @@ if ($result != -1) {
 } else {
     echo "Element not found in the array.";
 }
-?>
