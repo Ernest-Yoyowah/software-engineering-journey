@@ -3,11 +3,11 @@
 $num1 = 5;
 $num2 = 2;
 
-function addNums() {
-    global $num1, $num2;
-    return $num1 + $num2;
+// function addNums() {
+//     global $num1, $num2;
+//     return $num1 + $num2;
 
-}
+// }
 
 // echo addNums();
 
