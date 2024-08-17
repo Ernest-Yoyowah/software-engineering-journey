@@ -1,0 +1,136 @@
+# CSSD 202: Object-Oriented Analysis, Design, and Programming
+
+## Mid-Semester Exams Solutions
+
+---
+
+### Case Study: A Point of Sale Application for a Supermarket
+
+#### 1. Object Classes
+
+Based on the case study, the following object classes have been identified:
+
+- **Product**
+- **Inventory**
+- **SalesTransaction**
+- **Customer**
+- **Employee**
+
+---
+
+#### 2. Attributes and Methods
+
+Below are the attributes and methods for each class:
+
+- **Product**  
+  **Attributes:**
+
+  - `productId`
+  - `name`
+  - `price`
+
+  **Methods:**
+
+  - `getProductDetails()`
+  - `updatePrice()`
+  - `applyDiscount()`
+
+- **Inventory**  
+  **Attributes:**
+
+  - `inventoryId`
+  - `productList`
+  - `stockLevel`
+
+  **Methods:**
+
+  - `addProduct()`
+  - `updateStockLevel()`
+  - `checkReorderPoint()`
+
+- **SalesTransaction**  
+  **Attributes:**
+
+  - `transactionId`
+  - `productList`
+  - `totalAmount`
+
+  **Methods:**
+
+  - `processPayment()`
+  - `generateReceipt()`
+  - `applyPromotions()`
+
+- **Customer**  
+  **Attributes:**
+
+  - `customerId`
+  - `name`
+  - `contactDetails`
+
+  **Methods:**
+
+  - `addToLoyaltyProgram()`
+  - `updateContactDetails()`
+  - `getPurchaseHistory()`
+
+- **Employee**  
+  **Attributes:**
+
+  - `employeeId`
+  - `name`
+  - `role`
+
+  **Methods:**
+
+  - `recordSale()`
+  - `manageInventory()`
+  - `generateReport()`
+
+---
+
+#### 3. Relationships Between Classes
+
+- **Association:**
+
+  - `Employee` is associated with `SalesTransaction` since employees process sales transactions.
+  - `Customer` is associated with `SalesTransaction` as customers make purchases.
+
+- **Aggregation:**
+
+  - `Inventory` contains multiple `Product` objects, representing a whole-part relationship where `Product` can exist independently of `Inventory`.
+
+- **Composition:**
+
+  - `SalesTransaction` is composed of `Product` objects, where the `Product` objects are dependent on the `SalesTransaction` for their lifecycle.
+
+- **Inheritance (Generalization/Specialization):**
+  - `SalesTransaction` can have specialized classes like `CreditCardTransaction` and `CashTransaction`, which inherit from `SalesTransaction`.
+
+---
+
+#### 4. Class Diagram
+
+- A class diagram was constructed to visualize the relationships and structures of the identified classes. The diagram includes associations, aggregation, composition, and inheritance among the `Product`, `Inventory`, `SalesTransaction`, `Customer`, and `Employee` classes.
+
+---
+
+#### 5. Program Development
+
+- A program was developed using the identified classes (`Product`, `Inventory`, `SalesTransaction`, `Customer`, `Employee`) to implement the POS application for Owuscobee Supermarket.
+
+---
+
+#### 6. Implementation of Object-Oriented Concepts
+
+- **Polymorphism:**  
+  The program demonstrates polymorphism by using method overriding in specialized transaction classes (`CreditCardTransaction`, `CashTransaction`) that inherit from `SalesTransaction`.
+
+- **Inheritance:**  
+  Inheritance is shown in the relationship between `SalesTransaction` and its specialized classes, where the specialized classes inherit common attributes and methods.
+
+- **Encapsulation:**  
+  Encapsulation is implemented by defining private attributes in each class and providing public getter and setter methods to access and modify these attributes.
+
+- **Abstraction:**  
+  Abstraction is applied by focusing on the essential characteristics of the objects involved in the POS system, such as defining only necessary attributes and methods for each class without exposing complex implementation details.
