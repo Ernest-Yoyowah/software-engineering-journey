@@ -27,7 +27,7 @@ function binarySearch($arr, $target) {
 
 // Example usage:
 $sortedArray = [1, 3, 5, 7, 9, 11, 13, 15];
-$target = 7;
+$target = 5;
 
 $result = binarySearch($sortedArray, $target);
 
