@@ -19,4 +19,18 @@ export class Library {
     this.members.push(member);
     console.log(`${member.name} has been added as a member.`);
   }
+
+  listAvailableBooks(): void {
+    console.log("Available books:");
+    this.books.forEach((book) => {
+      if (book.getAvailability()) {
+        console.log(book.getInfo());
+      }
+    });
+  }
+
+  listMembers(): void {
+    console.log("Library members:");
+    this.members.forEach((member) => console.log(member.name));
+  }
 }
