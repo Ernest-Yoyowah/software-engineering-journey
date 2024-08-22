@@ -19,4 +19,9 @@ export class Book {
       console.log(`${this.title} is not available.`);
     }
   }
+
+  returnBook(): void {
+    this.isAvailable = true;
+    console.log(`${this.title} has been returned.`);
+  }
 }
