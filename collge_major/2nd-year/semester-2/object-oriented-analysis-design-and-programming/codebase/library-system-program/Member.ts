@@ -17,4 +17,14 @@ export class Member {
       console.log(`${book.getInfo()} is currently unavailable.`);
     }
   }
+
+  returnBook(book: Book): void {
+    const index = this.borrowedBooks.indexOf(book);
+    if (index > -1) {
+      book.returnBook();
+      this.borrowedBooks.splice(index, 1);
+    } else {
+      console.log(`${this.name} hasn't borrowed ${book.getInfo()}.`);
+    }
+  }
 }
