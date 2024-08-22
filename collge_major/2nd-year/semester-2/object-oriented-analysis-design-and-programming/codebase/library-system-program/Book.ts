@@ -10,26 +10,4 @@ export class Book {
     this.isbn = isbn;
     this.isAvailable = true;
   }
-
-  borrow(): void {
-    if (this.isAvailable) {
-      this.isAvailable = false;
-      console.log(`${this.title} has been borrowed.`);
-    } else {
-      console.log(`${this.title} is not available.`);
-    }
-  }
-
-  returnBook(): void {
-    this.isAvailable = true;
-    console.log(`${this.title} has been returned.`);
-  }
-
-  getInfo(): string {
-    return `${this.title} by ${this.author} (ISBN: ${this.isbn})`;
-  }
-
-  getAvailability(): boolean {
-    return this.isAvailable;
-  }
 }
