@@ -17,7 +17,7 @@ export class Library {
 
   addMember(member: Member): void {
     this.members.push(member);
-    console.log(`${member.name} has been added as a member.`);
+    console.log(`${member.getName()} has been added as a member.`);
   }
 
   listAvailableBooks(): void {
@@ -31,6 +31,6 @@ export class Library {
 
   listMembers(): void {
     console.log("Library members:");
-    this.members.forEach((member) => console.log(member.name));
+    this.members.forEach((member) => console.log(member.getName()));
   }
 }
