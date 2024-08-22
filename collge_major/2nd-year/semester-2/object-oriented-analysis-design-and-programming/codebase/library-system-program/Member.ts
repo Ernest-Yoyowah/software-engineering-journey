@@ -1,7 +1,7 @@
 import { Book } from "./Book";
 
 export class Member {
-  public name: string;
+  private name: string;
   private borrowedBooks: Book[];
 
   constructor(name: string) {
