@@ -9,6 +9,10 @@ export class Member {
     this.borrowedBooks = [];
   }
 
+  getName(): string {
+    return this.name;
+  }
+
   borrowBook(book: Book): void {
     if (book.getAvailability()) {
       book.borrow();
