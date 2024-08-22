@@ -27,4 +27,8 @@ export class Member {
       console.log(`${this.name} hasn't borrowed ${book.getInfo()}.`);
     }
   }
+
+  getBorrowedBooks(): string[] {
+    return this.borrowedBooks.map((book) => book.getInfo());
+  }
 }
