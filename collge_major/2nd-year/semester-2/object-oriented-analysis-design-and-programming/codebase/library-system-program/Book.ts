@@ -24,4 +24,12 @@ export class Book {
     this.isAvailable = true;
     console.log(`${this.title} has been returned.`);
   }
+
+  getInfo(): string {
+    return `${this.title} by ${this.author} (ISBN: ${this.isbn})`;
+  }
+
+  getAvailability(): boolean {
+    return this.isAvailable;
+  }
 }
