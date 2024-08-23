@@ -1,3 +1,5 @@
+import { Book } from "./Book";
+
 export class Member {
   private name: string;
   private borrowedBooks: Book[];
