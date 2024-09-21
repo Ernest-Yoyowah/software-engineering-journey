@@ -10,12 +10,7 @@ const book1 = new Book(
   "F. Scott Fitzgerald",
   "9780743273565"
 );
-const book2 = new Book(
-  "1984",
-  "George Orwell",
-
-  "9780451524935"
-);
+const book2 = new Book("1984", "George Orwell", "9780451524935");
 library.addBook(book1);
 library.addBook(book2);
 
