@@ -4,7 +4,7 @@ import { Member } from "./Member";
 
 const library = new Library();
 
-// FIXME: Add books to the library
+// TODO: Add books to the library
 const book1 = new Book(
   "The Great Gatsby",
   "F. Scott Fitzgerald",
