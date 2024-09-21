@@ -4,13 +4,18 @@ import { Member } from "./Member";
 
 const library = new Library();
 
-// Add books to the library
+// TODO: Add books to the library
 const book1 = new Book(
   "The Great Gatsby",
   "F. Scott Fitzgerald",
   "9780743273565"
 );
-const book2 = new Book("1984", "George Orwell", "9780451524935");
+const book2 = new Book(
+  "1984",
+  "George Orwell",
+
+  "9780451524935"
+);
 library.addBook(book1);
 library.addBook(book2);
 
