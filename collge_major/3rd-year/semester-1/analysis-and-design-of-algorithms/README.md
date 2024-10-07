@@ -1,4 +1,4 @@
-# Analysis and Design of Algorithms - README Guide
+# Analysis and Design of Algorithms - Preparation Guide
 
 ## Course Overview
 
