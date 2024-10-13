@@ -2,7 +2,7 @@
 
 ## 1. Software Development Life Cycle (SDLC)
 
-- **Phases**: Requirements gathering, design, implementation, testing, deployment, and maintenance.
+- **Phases**: Requirements gathering, design, implementation or Development, testing, deployment, and maintenance.
 - **Models**: Waterfall, Agile, Spiral, and DevOps.
 
 ## 2. Software Requirements Engineering
