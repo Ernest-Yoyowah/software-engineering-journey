@@ -8,11 +8,11 @@ Welcome to my software engineering journey repository! This space is a comprehen
 
 - [**1st Year**](./college_major/1st-year/)
 
-  - Content related to the first year
+  - Content related to my first year
 
 - [**2nd Year**](./college_major/2nd-year/)
 
-  - Content related to the second year
+  - Content related to my second year
 
 - [**README.md**](./college_major/README.md)
   - Introduction and overview of my college major - BSc. Software Engineering
