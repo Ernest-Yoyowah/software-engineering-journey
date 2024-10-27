@@ -14,7 +14,7 @@ Welcome to my software engineering journey repository! This space is a comprehen
 
   - Content related to my second year
  
-- [**3rd Year**](./college_major/3rd-year/semester-1)
+- [**3rd Year**](./college_major/3rd-year/semester-1/) 
 
   - Content related to my third year
 
