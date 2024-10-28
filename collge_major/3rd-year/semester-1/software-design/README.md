@@ -5,7 +5,7 @@
 ---
 
 **Aim of the Course:**  
-This course provides students with the principles and techniques to design modular, maintainable, and scalable software systems, while understanding best practices in software architecture.
+This course provides students with the principles and techniques to design modular, maintainable, and scalable software systems, while understanding best practices in software architecture and design.
 
 ### Course Topics:
 
