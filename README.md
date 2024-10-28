@@ -6,15 +6,15 @@ Welcome to my software engineering journey repository! This space is a comprehen
 
 ### College Major
 
-- [**1st Year**](./college_major/1st-year/)
+- [**1st Year**](./collge_major/1st-year/)
 
   - Content related to my first year
 
-- [**2nd Year**](./college_major/2nd-year/)
+- [**2nd Year**](./collge_major/2nd-year/)
 
   - Content related to my second year
- 
-- [**3rd Year**](./college_major/3rd-year/semester-1/) 
+
+- [**3rd Year**](./collge_major/3rd-year/)
 
   - Content related to my third year
 
