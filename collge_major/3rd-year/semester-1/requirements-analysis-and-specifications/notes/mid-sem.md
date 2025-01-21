@@ -1,4 +1,4 @@
-# Software Development Questions and Answers
+# Requirements Gathering and Specification - Mid Sem Questions and Answers
 
 ### 1. What is the purpose of the Delivery phase in software development?
 
